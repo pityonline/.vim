@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/pity/Library/Services/Run Terminal.workflow'
-let g:netrw_dirhist_2='/usr/local/Cellar/irssi/0.8.15/share/man/man1'
-let g:netrw_dirhist_3='/Users/pity/Repoes/test/wc.c'
-let g:netrw_dirhist_4='/Users/pity/Repo/octopress/plugins'
