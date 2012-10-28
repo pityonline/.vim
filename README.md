@@ -5,7 +5,7 @@ This repo is a backup for ~/.vim/
 
 On another computer
 `git clone git@github.com:pityonline/vim.git ~/.vim/`
-`git clone git://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`
+`git clone git@github.com:gmarik/vundle.git ~/.vim/bundle/vundle`
 `:BundleInstall`
 `ln -sf .vimrc ~/`
 
